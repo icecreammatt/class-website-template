@@ -1,0 +1,25 @@
+<div ng-controller="Navigation">
+
+  <h4 >Course Information</h4>
+  <div class="list-group">
+    <a class="list-group-item" href="#/syllabus">Syllabus</a>
+    <a class="list-group-item" href="#/">Schedule</a>
+    <a class="list-group-item" href="#/tips">Tips</a>
+    <a class="list-group-item" href="#/resources">Resources</a>
+  </div>
+
+  <h4 >Lectures</h4>
+  <div class="list-group">
+    <a ng-repeat="lecture in lectures" class="list-group-item" href="#/lesson/{{lecture.id}}">
+      <span>{{lecture.date}} - {{lecture.topic}}</span>
+    </a>
+  </div>
+
+  <h4 >Labs</h4>
+  <div class="list-group">
+    <a ng-repeat="lab in labs" class="list-group-item" href="#/labs/{{lab.id}}">
+      <span>{{lab.date}} - {{lab.topic}}</span>
+    </a>
+  </div>
+
+</div>
