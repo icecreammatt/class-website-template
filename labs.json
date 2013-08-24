@@ -1,5 +1,6 @@
 {
     "labs": [
-        {"id": 1, "date": "8.22", "topic": "Command line basics"}
+        {"id": 1, "date": "8.22", "topic": "Command line basics"},
+        {"id": 2, "date": "8.22", "topic": "Vi"}
     ]
 }
