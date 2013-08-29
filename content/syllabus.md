@@ -29,6 +29,11 @@ An introduction to the use of Unix as a programming environment. Communicating w
 
 Prerequisite: CS-115. Co-requisite: CS-215.
 
+## Recommended Text
+
+* [Unix in a Nutshell](http://www.amazon.com/Nutshell-Fourth-Edition-Arnold-Robbins/dp/0596100299/)
+* [Linux Pocket Guide](http://www.amazon.com/Linux-Pocket-Guide-Daniel-Barrett/dp/1449316697/)
+
 ## Coursework
 
 1. Weekly Quizzes at the beginning of every class.
