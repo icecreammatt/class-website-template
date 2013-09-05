@@ -1,7 +1,7 @@
 ## Schedule*
 
 * 08.22 - [Intro to command line](#/lesson/1)
-* 08.29 - Text Editors & Command line continued
+* 08.29 - [Text Editors & Command line continued](#/lesson/2)
 * 09.05 - Compilation process / GDB / Make Files
 * 09.12 - Pipes, Redirection, Filters, Files
 * 09.19 - Git

@@ -6,3 +6,4 @@
 * [QA](http://unix.stackexchange.com/questions?sort=votes)
 * [Markdown](http://dillinger.io/)
 * [http://alias.sh](http://alias.sh)
+* [Explain Shell](http://explainshell.com/explain/tar?args=xzvf+foo.tar.gz)

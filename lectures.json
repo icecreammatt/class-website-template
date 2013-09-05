@@ -1,5 +1,6 @@
 {
     "lectures": [
-        {"id": 1, "date": "8.22", "topic": "Basics"}
+        {"id": 1, "date": "8.22", "topic": "Basics"},
+        {"id": 2, "date": "8.29", "topic": "More Intro"}
     ]
 }
