@@ -3,6 +3,7 @@
         {"id": 1, "date": "8.22", "topic": "Command line basics"},
         {"id": 2, "date": "8.22", "topic": "Vi"},
         {"id": 3, "date": "8.29", "topic": "More Command line"},
-        {"id": 4, "date": "8.29", "topic": "Bash Fix"}
+        {"id": 4, "date": "8.29", "topic": "Bash Fix"},
+        {"id": 5, "date": "9.05", "topic": "g++; gdb; make;"}
     ]
 }
