@@ -6,6 +6,8 @@
         {"id": 4, "date": "8.29", "topic": "Bash Fix"},
         {"id": 5, "date": "9.05", "topic": "g++; gdb; make;"},
         {"id": 6, "date": "9.12", "topic": "stdin/out pipes"},
-        {"id": 7, "date": "9.12", "topic": "Markdown"}
+        {"id": 7, "date": "9.12", "topic": "Markdown"},
+        {"id": 8, "date": "9.19", "topic": "Git Lab"}
     ]
 }
+
