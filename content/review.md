@@ -20,6 +20,7 @@
 
 * What kind of standard output will this `2>` redirect?
 
+
 * What is the difference between these redirection operators `>` and `>>`?
 
 * What is the output of this command with the sample input:  
@@ -40,4 +41,4 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
-
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?
