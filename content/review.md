@@ -40,6 +40,6 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
-* How do you add a file to the git repository?
+* How do you change git branches, if you would ever need to?
 
-* git branches?
+* What is going on with the whole pull request thing?
