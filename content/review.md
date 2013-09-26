@@ -41,3 +41,4 @@ Sample Input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
 
+* How do you recursively delete files in Terminal? - abrownli
