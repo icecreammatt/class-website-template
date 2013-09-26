@@ -40,4 +40,6 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* What is the importance of the makefile?
+
 
