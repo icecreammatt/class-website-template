@@ -40,4 +40,5 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
-
+* How do you move a file or directory to a destination directory?
+* How do you see the current directory you are in?
