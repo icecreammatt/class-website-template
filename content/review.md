@@ -41,3 +41,5 @@ Sample Input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
 * In case of zombie apocalypse, how would you design a facial recognition program that identifies if individuals are decaying and likely infected.
+
+* When programming your zombie facial recognition program (OpperationUnicorneExsanguination.cpp), what command would you use to upload it for collaberation on github?
