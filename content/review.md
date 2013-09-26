@@ -40,4 +40,8 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* How do you change git branches, if you would ever need to?
 
+* What is going on with the whole pull request thing?
+
+* Markdown? What is it/what is it for?
