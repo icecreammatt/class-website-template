@@ -40,4 +40,5 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+*Two fish are in a tank. One of the fish says, "How do we drive this thing?!?" *
 
