@@ -40,4 +40,12 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* How do you start working in git? Allow git to be used with a file? Save in git?
 
+* How do you add a comment to the top of a git file in the command line?
+
+* Butts? Yes? No?
+
+* Why did the scarecrow get an award?
+
+* If you are jetskiing through the desert, and one of you skis falls off, would the same number of pancakes still fit on a dog house?
