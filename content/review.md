@@ -42,10 +42,6 @@ Sample Input:
 
 * What command shows you all the files in a directory, including the hidden/invisible ones?
 
-* What do gynecologists and a pizza delivery boy have in common?
-  
-  - Both get to smell the goods but neither of them get to eat it.
-
 * What does the pwd command do and give an example.
 
 * What command do you use to remove a directory?
