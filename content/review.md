@@ -40,4 +40,16 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* What command shows you all the files in a directory, including the hidden/invisible ones?
 
+* What do gynecologists and a pizza delivery boy have in common?
+  
+  - Both get to smell the goods but neither of them get to eat it.
+
+* What does the pwd command do and give an example.
+
+* What command do you use to remove a directory?
+
+* What compiling command do you use too edit your program in gdb?
+  
+  - Bonus: What does gdb stand for?
