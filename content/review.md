@@ -40,4 +40,9 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* What is the basic function of grep?
+
+* What are pipes?
+
+* What is a makefile?
 
