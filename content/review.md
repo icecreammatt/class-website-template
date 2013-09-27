@@ -41,3 +41,7 @@ Sample Input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
 
+# Review questions
+
+- What is the argument passed to cd to go to the previous directory?
+
