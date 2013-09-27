@@ -40,4 +40,6 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* What are the significant advantages of using Git?
 
+* How do you copy a file from a different directory into your pwd?
