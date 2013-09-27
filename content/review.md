@@ -1,4 +1,4 @@
-# Midterm Review   
+# Midterm Review
 		    <..>
 		 <== ^^==>
     		 ()
