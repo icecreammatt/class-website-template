@@ -40,4 +40,7 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* What does the man command do?
 
+* What is green and red and moves 50 miles an hour?
+~`A frog in a blender~
