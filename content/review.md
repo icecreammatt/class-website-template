@@ -1,5 +1,9 @@
 # Midterm Review
-
+		    <..>
+		 <== ^^==>
+    		 ()
+		     /\
+		    =  =  
 ### Sample Questions
 
 * Write the commands in order to copy all the files and folders out of this directory `/home/faculty/mcarrier/pickup/cs210/lab5/` into a new directory named `lab05` which is inside your `cs210` folder. Assume the `lab05` folder has not been created yet.
@@ -24,6 +28,8 @@
 
 * What is the output of this command with the sample input:  
 `cat sample.txt | awk '{ print $3 }' | sort | uniq`  
+
+* What command allows you to view your current directory?
 
 Sample Input:  
 
