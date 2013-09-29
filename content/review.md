@@ -111,3 +111,5 @@ _lol i dunno_
  `g++ -g main.cpp -o main.x`
 
 * How do you recursively delete files in Terminal? - abrownli
+
+* How do I merge your updated master with my fork? 
