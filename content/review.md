@@ -86,3 +86,13 @@ _lol i dunno_
 * If you where typing a command and are unsure of what flag to use, what commant would you use to assist you in making your desition?
 
 * How would you compile a file named "this_file_isn't_compiled.cpp" and named the output file "this_file_IS_compiled_:).out"?
+
+* What command shows you all the files in a directory, including the hidden/invisible ones?
+
+* What does the pwd command do and give an example.
+
+* What command do you use to remove a directory?
+
+* What compiling command do you use too edit your program in gdb?
+  
+  - Bonus: What does gdb stand for?
