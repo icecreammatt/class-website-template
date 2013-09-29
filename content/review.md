@@ -98,3 +98,5 @@ _lol i dunno_
   - Bonus: What does gdb stand for?
 
 - What is the argument passed to cd to go to the previous directory?
+
+* What are pipes?
