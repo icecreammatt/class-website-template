@@ -1,4 +1,4 @@
-# midterm Review
+# Midterm Review
 
 ### Sample Questions
 
@@ -24,7 +24,8 @@
 * What is the difference between these redirection operators `>` and `>>`?
 
 * What is the output of this command with the sample input:  
-`cat sample.txt | awk '{ print $3 }' | sort | uniq`  
+`cat sample.txt | awk '{ print $3 }' | sort | uniq` 
+
 
 Sample Input:  
 
@@ -39,6 +40,7 @@ Sample Input:
 ```
 
 * What is the output of this command given the sample input:
+
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
 ## Review Questions
@@ -70,3 +72,17 @@ _lol i dunno_
 * How do you move a file or directory to a destination directory?
 
 * How do you see the current directory you are in?
+
+* What is the cat command for?
+
+* What are pipes used for?
+
+* How would you copy the file "I_like_hamburgers.txt" to a new file named "I_don't like_hamburgers.txt"
+
+* How would you compile a file in a way that you can debug it using the gdb compiler afterwards?
+
+* What are 5 different ways you can redirect the output of a program into a file, and what is the difference between them?
+
+* If you where typing a command and are unsure of what flag to use, what commant would you use to assist you in making your desition?
+
+* How would you compile a file named "this_file_isn't_compiled.cpp" and named the output file "this_file_IS_compiled_:).out"?
