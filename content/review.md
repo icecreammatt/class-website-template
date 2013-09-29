@@ -57,3 +57,5 @@ Sample Input:
 
 * How much wood would a woodchuck chuck if a woodchuck could chuck wood?
 _lol i dunno_
+
+How do I merge your updated master with my fork? 
