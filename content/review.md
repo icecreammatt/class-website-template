@@ -20,6 +20,7 @@
 
 * What kind of standard output will this `2>` redirect?
 
+
 * What is the difference between these redirection operators `>` and `>>`?
 
 * What is the output of this command with the sample input:  
@@ -53,3 +54,6 @@ Sample Input:
 * Markdown? What is it/what is it for?
 
 * Why is the sky bluee?
+
+* How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+_lol i dunno_
