@@ -96,3 +96,5 @@ _lol i dunno_
 * What compiling command do you use too edit your program in gdb?
   
   - Bonus: What does gdb stand for?
+
+- What is the argument passed to cd to go to the previous directory?
