@@ -119,3 +119,7 @@ _lol i dunno_
 * How do you recursively delete files in Terminal? - abrownli
 
 * How do I merge your updated master with my fork? 
+
+* What are the significant advantages of using Git?
+
+* How do you copy a file from a different directory into your pwd?
