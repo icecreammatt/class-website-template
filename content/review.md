@@ -46,4 +46,5 @@ Sample Input:
 * What is the output of this command given the sample input:
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
-* __SAMPLE REVIEW__
+* What does the flag -g do in : 
+ `g++ -g main.cpp -o main.x`
