@@ -24,14 +24,10 @@
 
 * What kind of standard output will this `2>` redirect?
 
-
 * What is the difference between these redirection operators `>` and `>>`?
 
 * What is the output of this command with the sample input:  
 `cat sample.txt | awk '{ print $3 }' | sort | uniq` 
-
-
-* What command allows you to view your current directory?
 
 Sample Input:  
 
@@ -123,3 +119,5 @@ _lol i dunno_
 * What are the significant advantages of using Git?
 
 * How do you copy a file from a different directory into your pwd?
+
+* What command allows you to view your current directory?
