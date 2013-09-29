@@ -66,3 +66,7 @@ _lol i dunno_
 
 * What is green and red and moves 50 miles an hour?
 ~`A frog in a blender~
+
+* How do you move a file or directory to a destination directory?
+
+* How do you see the current directory you are in?
