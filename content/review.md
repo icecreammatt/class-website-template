@@ -45,3 +45,9 @@ Sample Input:
 * Two fish are in a tank. One of the fish says, "How do we drive this thing?!?"
 
 * What is Git?
+
+* How do you change git branches, if you would ever need to?
+
+* What is going on with the whole pull request thing?
+
+* Markdown? What is it/what is it for?
