@@ -110,4 +110,10 @@ _lol i dunno_
 * What does the flag -g do in : 
  `g++ -g main.cpp -o main.x`
 
+* What is the basic function of grep?
+
+* What are pipes?
+
+* What is a makefile?
+
 * How do you recursively delete files in Terminal? - abrownli
