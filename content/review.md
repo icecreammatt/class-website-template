@@ -106,3 +106,6 @@ _lol i dunno_
 - What is the argument passed to cd to go to the previous directory?
 
 * What are pipes?
+
+* What does the flag -g do in : 
+ `g++ -g main.cpp -o main.x`
