@@ -61,3 +61,8 @@ _lol i dunno_
 * In case of zombie apocalypse, how would you design a facial recognition program that identifies if individuals are decaying and likely infected.
 
 * When programming your zombie facial recognition program (OperationUnicornExsanguination.cpp), what command would you use to upload it for collaberation on github?
+
+* What does the man command do?
+
+* What is green and red and moves 50 miles an hour?
+~`A frog in a blender~
