@@ -1,4 +1,4 @@
-# Midterm Review
+# midterm Review
 
 ### Sample Questions
 
@@ -57,3 +57,7 @@ Sample Input:
 
 * How much wood would a woodchuck chuck if a woodchuck could chuck wood?
 _lol i dunno_
+
+* In case of zombie apocalypse, how would you design a facial recognition program that identifies if individuals are decaying and likely infected.
+
+* When programming your zombie facial recognition program (OperationUnicornExsanguination.cpp), what command would you use to upload it for collaberation on github?
