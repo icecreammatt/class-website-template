@@ -2,11 +2,11 @@
 
 * 08.22 - [Intro to command line](#/lesson/1)
 * 08.29 - [Text Editors & Command line continued](#/lesson/2)
-* 09.05 - Compilation process / GDB / Make Files
-* 09.12 - Pipes, Redirection, Filters, Files
-* 09.19 - Git
-* 09.26 - Git Continued
-* 10.03 - Review
+* 09.05 - [Compilation process / GDB / Make Files](#/lesson/3)
+* 09.12 - [Pipes, Redirection, Filters, Files](#/lesson/4)
+* 09.19 - [Git](#/lesson/5)
+* 09.26 - [Git Continued](#/lesson/6)
+* 10.03 - [Review](#/review)
 <hr/>
 * 10.10 - __Midterm__
 <hr/>
