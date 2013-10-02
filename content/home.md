@@ -5,17 +5,17 @@
 * 09.05 - Compilation process / GDB / Make Files
 * 09.12 - Pipes, Redirection, Filters, Files
 * 09.19 - Git
-* 09.26 - Git Continued & Review
+* 09.26 - Git Continued
+* 10.03 - Review
 <hr/>
-* 10.03 - __Midterm__
+* 10.10 - __Midterm__
 <hr/>
-* 10.10 - Shell Scripting
-* 10.17 - Regular Expressions
-* 10.24 - Networking Basics
-* 10.31 - LXE Containers & Virtual Machines
-* 11.07 - Unit Testing
-* 11.14 - Classes choice on specific topic
-* 11.21 - Scripting with Nodejs and Grunt
+* 10.17 - Shell Scripting
+* 10.24 - Regular Expressions
+* 10.31 - Networking Basics
+* 11.07 - LXE Containers & Virtual Machines
+* 11.14 - Unit Testing
+* 11.21 - Classes choice on specific topic
 * 11.28 - __No Class__
 * 12.05 - Review
 * 12.12 - __Final__
@@ -112,14 +112,13 @@
 	* rebasing
 	* branching
 
-### Review
+## 10.03 - Review
 
-## 10.03 - __Midterm__
+## 10.10 - __Midterm__
 * Quick Q&A last minute questions
+* __Midterm__
 
-### Midterm
-
-## 10.10 - Shell Scripting
+## 10.17 - Shell Scripting
 * No Quiz
 * Shell scripting
 	* Variables
@@ -132,14 +131,14 @@
 ### Lab 
 * Scripting to automate tasks
 
-## 10.17 - Regular Expressions
+## 10.24 - Regular Expressions
 * Quiz on shell scripting
 * awk, sed
 
 ### Lab
 * Text processing
 
-## 10.24 - Networking Basics
+## 10.31 - Networking Basics
 * Quiz on regular expressions
 * File mounting / unmounting
 * Networking
@@ -153,7 +152,7 @@
 * Fetching and posting data to and from a web service 
 * Formatting with previously learned commands
 
-## 10.31 - LXE Containers & Virtual Machines
+## 11.07 - LXE Containers & Virtual Machines
 * Quiz on previously covered commands
 * LXE Containers, docker
 * Virtual Machines
@@ -161,7 +160,7 @@
 ### Lab
 * Amazon Web Services or LXE Containers
 
-## 11.07 - Unit Testing
+## 11.14 - Unit Testing
 * Quiz
 * Unit Testing
 * C++ & Python Unit Testing
@@ -172,7 +171,7 @@
 ### Lab
 * Demonstrate unit testing with Python or C++ with a simple program
 
-## 11.14 - Classes choice on specific topic
+## 11.21 - Classes choice on specific topic
 * Quiz
 
 ### Topic Choices
@@ -181,15 +180,6 @@
 * Unit Testing
 * Even More Git
 * Other: _______
-
-## 11.21 - Scripting with Nodejs and Grunt
-* Intro to Nodejs & JavaScript
-	* Variables
-	* Conditionals
-	* Loops
-	* Functions
-	* Input & Output
-	* Debugging
 
 ## 11.28 - __No Class__
 ## 12.05 - Review
