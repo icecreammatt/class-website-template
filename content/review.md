@@ -14,13 +14,13 @@
 
 * How do you list all files including hidden ones in a given directory?
 
-* Write the commands in order to copy all the files and folders out of this directory `/home/faculty/mcarrier/pickup/cs210/lab5/` into a new directory named `lab05` which is inside your `cs210` folder. Assume the `lab05` folder has not been created yet.
+* What is the compiler flag required to debug a program in gdb?
 
-* How would you extract the contents of the following file `lab5.tgz`
+* What is the difference between `#import <name>` vs `#import "name.h"`?
 
-* What is the difference between relative and absolute paths?
+* What are o files and what are they used for?
 
-* How do you list all files including hidden ones in a given directory?
+* Explain what the advantages of using makefiles are besides compiling multiple files in a single command
 
 * What kind of standard output will this `2>` redirect?
 
