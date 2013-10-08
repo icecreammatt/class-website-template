@@ -45,6 +45,10 @@ Sample Input:
 
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+* What is the output of this command?
+
+`who | awk '{ print "Hello " $1 }' | sort | uniq`
+
 <br/>
 
 #### Using pipes construct a single line command which downloads web pages from everyone who is listed when using `last` on cwolf. _(Hint: xargs, wget, awk)_
