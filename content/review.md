@@ -45,6 +45,24 @@ Sample Input:
 
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+### Git
+
+* How do you initialize a git repository?
+
+* How do you add files to a git repository?
+
+* How do you undo changes on a specific file since the last commit?
+
+* What is the `.gitignore` file used for?
+
+* How do you display what has changed since the last commit?
+
+* How do you reset all changes since the last commit?
+
+* How do you view the history of all your commits?
+
+* What are branches used for?
+
 ## Review Questions
 
 * Two fish are in a tank. One of the fish says, "How do we drive this thing?!?"
