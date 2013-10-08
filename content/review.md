@@ -45,6 +45,10 @@ Sample Input:
 
 `cat sample.txt | awk '{ $1=""; print $0 }'` 
 
+<br/>
+
+#### Using pipes construct a single line command which downloads web pages from everyone who is listed when using `last` on cwolf. _(Hint: xargs, wget, awk)_
+
 ### Git
 
 * How do you initialize a git repository?
