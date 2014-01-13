@@ -1,4 +1,4 @@
-<h1>An Introduction to Unix<br/><small>CS-210 Fall 2013</small></h1>
+<h1>An Introduction to Unix<br/><small>CS-210 Spring 2014</small></h1>
 
 <table class="table table-striped table-bordered">
     <tbody>
@@ -11,12 +11,12 @@
             <td>carrier at sonoma dot edu</td>
         </tr>
         <tr>
-            <td>Office Hours</td>
-            <td>Thursdays 7:00pm-8:00pm and by appointment</td>
-        </tr>
-        <tr>
             <td>Lab Meetings</td>
             <td>Thursdays 4:00pm-6:50pm in Darwin 25</td>
+        </tr>
+        <tr>
+            <td>Office Hours</td>
+            <td>Thursdays 7:00pm-8:00pm in Darwin 25 and by appointment</td>
         </tr>
     </tbody>
 </table>
@@ -29,19 +29,24 @@ An introduction to the use of Unix as a programming environment. Communicating w
 
 Prerequisite: CS-115. Co-requisite: CS-215.
 
-## Recommended Text
+## Required Text 
+_(Paperback edition recommended)_  
 
-* [Unix in a Nutshell](http://www.amazon.com/Nutshell-Fourth-Edition-Arnold-Robbins/dp/0596100299/)
 * [Linux Pocket Guide](http://www.amazon.com/Linux-Pocket-Guide-Daniel-Barrett/dp/1449316697/)
+
+## Recommended Text
+* [Unix in a Nutshell](http://www.amazon.com/Nutshell-Fourth-Edition-Arnold-Robbins/dp/0596100299/)
 
 ## Coursework
 
-1. Weekly Quizzes at the beginning of every class.
+1. Weekly Quizzes at the beginning of every class. (Based on reading assignments and lectures)
 2. Questions and answers regarding the previous quizzes and the material from the previous week.
 3. Discussion of the material that forms the basis for the lab assignment in the form of hands-on lecture.
 4. Time for students to complete and turn-in the lab assignment for that week. You have to be physically in the lab to get credit for this item and of course for the quizzes.
-
-In addition to lab assignments, each week students will be given the reading assignment for the following week.
+5. Assignments have to be submitted before the beginning of the following class to recieve credit unless otherwise noted.
+    * In addition to lab assignments, each week students will be given the reading assignment for the following week. 
+    * Some of the quiz questions will come from the reading assignment.
+6. There will be two projects which build on the covered concepts. 
 
 ## Grading
 
@@ -49,24 +54,24 @@ In addition to lab assignments, each week students will be given the reading ass
     <tbody>
         <tr>
             <td>Quizzes</td>
-            <td>15%</td>
+            <td>10%</td>
         </tr>
         <tr>
             <td>Labs</td>
-            <td>25%</td>
-        </tr>
-        <tr>
-            <td>Midterm</td>
             <td>30%</td>
         </tr>
         <tr>
-            <td>Final</td>
+            <td>Projects</td>
             <td>30%</td>
         </tr>         
+        <tr>
+            <td>Tests</td>
+            <td>30%</td>
+        </tr>
     </tbody>
 </table>
 
-The final will take place some time during the week of December 9th - 13th depending on lab availability.
+The final day of class will be on Thursday May 1st.
 
 ### Grading Scale
 * A 93-100%	
@@ -85,10 +90,10 @@ The final will take place some time during the week of December 9th - 13th depen
 Your overall semester grade will be rounded to the nearest integer.
 
 ## Makeup policy
-In-class work, including exams, cannot be made up except in extreme extenuating circumstances. Contact the instructor as soon as possible if you believe you qualify.
+In-class work, including exams and quizzes cannot be made up except in extreme extenuating circumstances. Contact the instructor as soon as possible if you believe you qualify.
 
 ## Exam Collaboration Policy
-Exams must be your own work. You are allowed to consult only your own brain, your 8.5x11" handwritten cheat sheet, and other materials specifically permitted by the instructor. Quiz policies will vary and will be announced when the quiz is given. On both exams and quizzes, giving or receiving unpermitted aid will be penalized as academic dishonesty.
+Exams must be your own work. You are allowed to consult only your own brain, your 8.5x11" handwritten cheat sheet, and other materials specifically permitted by the instructor. On both exams and quizzes, giving or receiving unpermitted aid will be penalized as academic dishonesty.
 
 ## Policy on Collaboration
 You are encouraged to discuss course material with other students. Don't be shy about consulting with anyone, but please understand that you, and only you, bear the responsibility for solving the problems associated with producing a successful project or solving a homework assignment. Please read the CS Department policy on plagiarism and keep the following in mind.

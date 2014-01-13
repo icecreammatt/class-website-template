@@ -3,7 +3,7 @@
 angular.module('classSite.controllers', []).
 
   controller('Home', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http) {
-    var page = $routeParams.page || 'home';
+    var page = $routeParams.page || 'schedule';
     var url = 'content/' + page + '.md';
 
     $http.get(url).success(function(data) {
@@ -38,10 +38,7 @@ angular.module('classSite.controllers', []).
   }]).
 
   controller('Navigation', ['$scope', '$http', function($scope, $http) {
-    $http.get('lectures.json').success(function(data) {
-      $scope.lectures = data.lectures;
-    })
-    $http.get('labs.json').success(function(data) {
-      $scope.labs = data.labs;
-    })
+    $http.get('navigation.json').success(function(data) {
+      $scope.navigation = data;
+    });
   }]);

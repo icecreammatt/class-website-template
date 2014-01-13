@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Course Information",
+        "directory": "#",
+        "list": [
+            {"url": "syllabus", "title": "Syllabus"},
+            {"url": "", "title": "Schedule"},
+            {"url": "tips", "title": "Tips"},
+            {"url": "resources", "title": "Resource"},
+            {"url": "submissions", "title": "Submissions", "visible": "none"}
+        ]
+    },
+    {
+        "title": "Lectures",
+        "directory": "#/lesson",
+        "list": [
+            {"url": 1, "date": "", "title": "Basics", "visible": "block"},
+            {"url": 2, "date": "", "title": "More Intro", "visible": "none"},
+            {"url": 3, "date": "", "title": "C++", "visible": "none"},
+            {"url": 4, "date": "", "title": "Pipes, Redirection", "visible": "none"},
+            {"url": 5, "date": "", "title": "Git", "visible": "none"},
+            {"url": 6, "date": "", "title": "Github", "visible": "none"}
+        ]
+    },
+    {
+        "title": "Labs",
+        "directory": "#/labs",
+        "list": [
+            {"url": 1, "date": "", "title": "1. Environment Setup", "visible": "block"},
+            {"url": 2, "date": "", "title": "Vi", "visible": "none"},
+            {"url": 3, "date": "", "title": "More Command line", "visible": "none"},
+            {"url": 4, "date": "", "title": "Bash Fix", "visible": "none"},
+            {"url": 5, "date": "", "title": "g++; gdb; make;", "visible": "none"},
+            {"url": 6, "date": "", "title": "stdin/out pipes", "visible": "none"},
+            {"url": 7, "date": "", "title": "Markdown", "visible": "none"},
+            {"url": 8, "date": "", "title": "Git", "visible": "none"},
+            {"url": 9, "date": "", "title": "Github", "visible": "none"},
+            {"url": 10,"date": "", "title": "Scripting", "visible": "none"}
+        ]
+    },
+    {
+        "title": "Reading Homework",
+        "directory": "#/projects",
+        "list": [
+            {"url": 1, "date": "", "title": "1/16 - pages 2-23", "visible": "block"}
+        ]
+    },
+    {
+        "title": "Projects",
+        "directory": "#/projects",
+        "list": [
+            {"url": 1, "date": "", "title": "", "visible": "none"}
+        ]
+    },
+    {
+        "title": "Quizzes",
+        "directory": "#/quizzes",
+        "list": [
+            {"url": 1, "date": "", "title": "Command line basics", "visible": "none"}
+        ]
+    }
+]

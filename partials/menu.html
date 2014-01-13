@@ -1,28 +1,13 @@
 <div ng-controller="Navigation">
-
-  <h4 >Course Information</h4>
-  <div class="list-group">
-    <a class="list-group-item" href="#/syllabus">Syllabus</a>
-    <a class="list-group-item" href="#/">Schedule</a>
-    <a class="list-group-item" href="#/tips">Tips</a>
-    <a class="list-group-item" href="#/resources">Resources</a>
-    <a class="list-group-item" href="#/review">Review</a>
-    <a class="list-group-item" href="#/review2">Final Review</a>
-    <a class="list-group-item" href="/submissions/">Submissions</a>
-  </div>
-
-  <h4>Lectures</h4>
-  <div class="list-group">
-    <a ng-repeat="lecture in lectures" class="list-group-item" href="#/lesson/{{lecture.id}}">
-      <span>{{lecture.date}} - {{lecture.topic}}</span>
-    </a>
-  </div>
-
-  <h4>Labs</h4>
-  <div class="list-group">
-    <a ng-repeat="lab in labs" class="list-group-item" href="#/labs/{{lab.id}}">
-      <span>{{lab.date}} - {{lab.topic}}</span>
-    </a>
-  </div>
-
+    <div ng-repeat="group in navigation">
+        <h4>{{group.title}}</h4>
+        <div class="list-group">
+            <a ng-repeat="item in group.list" 
+                class="list-group-item" 
+                href="{{group.directory}}/{{item.url}}" 
+                style="display:{{item.visible}}">
+                <span>{{item.title}}</span>
+            </a>
+        </div>
+    </div>
 </div>
