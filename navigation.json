@@ -27,7 +27,7 @@
         "directory": "#/labs",
         "list": [
             {"url": 1, "date": "", "title": "1. Environment Setup", "visible": "block"},
-            {"url": 2, "date": "", "title": "Vi", "visible": "none"},
+            {"url": 2, "date": "", "title": "2. Basic scripting", "visible": "block"},
             {"url": 3, "date": "", "title": "More Command line", "visible": "none"},
             {"url": 4, "date": "", "title": "Bash Fix", "visible": "none"},
             {"url": 5, "date": "", "title": "g++; gdb; make;", "visible": "none"},
