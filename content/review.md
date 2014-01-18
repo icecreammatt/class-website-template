@@ -147,3 +147,8 @@ _lol i dunno_
 * How do you copy a file from a different directory into your pwd?
 
 * What command allows you to view your current directory?
+
+* How do you start working in git? Allow git to be used with a file? Save in git?
+  
+* How do you add a comment to the top of a git file in the command line?
+
